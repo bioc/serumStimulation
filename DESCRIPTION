@@ -1,8 +1,8 @@
 Package: serumStimulation
-Version: 1.8.0
+Version: 1.8.1
 Date: 2011-08-09
 Title: serumStimulation is a data package which is used by examples in package pcaGoPromoter
-Author: Morten Hansen, <mhansen@sund.ku.dk>
+Author: Morten Hansen <mhansen@sund.ku.dk>
 Maintainer: Morten Hansen, <mhansen@sund.ku.dk>
 Description: Contains 13 micro array data results from a serum stimulation experiment
 biocViews: ExperimentData, MicroarrayData
